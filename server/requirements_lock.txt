@@ -9,7 +9,7 @@ motor==2.0.0
 pydantic==0.32.2
 pymongo==3.9.0
 python-dotenv==0.10.3
-starlette==0.12.9
+starlette==0.27.0
 uvicorn==0.10.3
 uvloop==0.14.0rc2
 websockets==8.1
